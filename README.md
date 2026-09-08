@@ -1,4 +1,4 @@
-# -skills
+# typesetting-skills
 <div align="center">
 
 # ✨ WeChat Format
